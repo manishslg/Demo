@@ -2,7 +2,7 @@
 Just for practice.  
 A new line is added.
 
-# Teacher
+# Student
 Manish
 
 # User
